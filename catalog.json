@@ -1,0 +1,11 @@
+[
+  {
+    "id": "supply-jenga",
+    "name": "Supply Chain Jenga",
+    "category": "Network resilience",
+    "tagline": "All the expensive parts. None of the boxes.",
+    "accent": "#8ac6c8",
+    "number": "14",
+    "module": "supply"
+  }
+]

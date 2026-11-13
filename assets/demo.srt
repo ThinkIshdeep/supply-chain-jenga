@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Trace shared dependencies
+Two products depend on raw materials and shared packaging, with inventory and lead times tracked explicitly.
+
+2
+00:00:07,000 --> 00:00:14,000
+Stress the backup capacity
+A longer packaging outage with zero backup capacity changes backlog and replenishment behaviour.
+
+3
+00:00:14,000 --> 00:00:21,000
+Compare a stronger backup
+Increase backup capacity and rerun the same seeded demand. Cost and service are consequences of the declared model.
+

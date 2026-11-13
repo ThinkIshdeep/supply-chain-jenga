@@ -1,0 +1,25 @@
+{
+  "release": "2.0.0",
+  "python_tests": 13,
+  "python_pass": true,
+  "javascript_parse_pass": true,
+  "view_render_and_action_wiring": {
+    "project": "supply-jenga",
+    "rendered": true,
+    "wiredActions": 2,
+    "uniqueIds": 10,
+    "standaloneImports": true
+  },
+  "mobile_viewport": {
+    "project": "supply-jenga",
+    "scrollWidth": 375,
+    "width": 375,
+    "heading": "Pull one block. Watch the chain."
+  },
+  "platform": "Linux, Python 3.12, Chrome",
+  "browser_check": "Primary workflow exercised manually through the actual interface; see UI_GUIDE.md.",
+  "limitations": [
+    "No physical mobile device testing",
+    "Windows launcher and Docker execution not verified here"
+  ]
+}
